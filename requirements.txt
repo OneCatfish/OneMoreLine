@@ -1,0 +1,7 @@
+# 项目依赖
+
+torch>=2.0.1
+numpy>=1.24.3
+tqdm>=4.65.0
+sentencepiece>=0.1.99
+scikit-learn>=1.2.2
